@@ -1,0 +1,2 @@
+# No Python packages required for the PowerShell test suite.
+# Add Python package names below (one per line) if you want them installed via pip.

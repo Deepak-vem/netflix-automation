@@ -1,0 +1,7 @@
+{
+  "AppId": "9WZDNCRFJ3TJ",
+  "AppName": "Netflix",
+  "InstallTimeoutSeconds": 300,
+  "LogPath": ".\\logs",
+  "ReportPath": ".\\reports"
+}

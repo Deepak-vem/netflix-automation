@@ -1,0 +1,52 @@
+# Logs
+logs/
+*.log
+*.log.*
+
+# Reports and Test Results
+reports/
+*.json
+!package.json
+!config.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.code-workspace
+
+# PowerShell specific
+*.psd1
+*.psm1
+.PSScriptAnalyzerSettings.psd1
+
+# OS files
+.DS_Store
+Thumbs.db
+.gitkeep
+
+# Environment and config files with sensitive data
+.env
+.env.local
+secrets.json
+
+# Node modules (if applicable)
+node_modules/
+
+# Build outputs
+bin/
+obj/
+out/
+
+# Cache
+__pycache__/
+*.pyc
